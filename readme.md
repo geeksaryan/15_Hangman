@@ -4,7 +4,7 @@ A simple and interactive Hangman game built using HTML, CSS, and JavaScript. The
 
 ## Live Preview
 
-You can try the game live [here](#).
+You can try the game live [here](https://hangman-ochre-two.vercel.app/).
 
 ## Screenshots
 
